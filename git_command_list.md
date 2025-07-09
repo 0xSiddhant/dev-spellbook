@@ -19,6 +19,12 @@ git status : to check the status if new file is added or not.
 git log : to check the logs.
 ```
 
+## Git Alias
+```bash
+	git config --global alias.br branch
+	git config --global --unset alias.br # to unset alias
+```
+
 ## Git Remote
 ```bash
 git remote 		<==>		git remote show
