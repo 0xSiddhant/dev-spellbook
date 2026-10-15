@@ -13,6 +13,7 @@ A personal collection of developer cheatsheets and quick-reference guides for co
 | [🔗 Linking Framework in Xcode Workspace](./linking_framework_in_xcworkspace.md) | Steps to link frameworks inside an Xcode workspace |
 | [🔑 SSH Keychain Setup](./ssh_keychain_setup.md) | Guide to setting up SSH keys with keychain on macOS |
 | [💻 Sublime Terminal Command Cheatsheet](./sublime_terminal_command_cheatsheet.md) | Terminal and Sublime Text command quick reference |
+| [🖥️ tmux Cheat Sheet](./tmux_cheat_sheet.md) | Sessions, windows, panes, and config for the tmux terminal multiplexer |
 
 ---
 
